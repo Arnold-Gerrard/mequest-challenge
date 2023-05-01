@@ -1,0 +1,13 @@
+employees:
+  - name: Agudosi Arnold
+    position: Sales representative
+    department: Sales
+    salary: 60000
+  - name: Rashida Elizabeth
+    position: Marketing Manager
+    department: Marketing
+    salary: 75000
+  - name: Chioma Bassey
+    position: Software Engineer
+    department: Engineering
+    salary: 120000
