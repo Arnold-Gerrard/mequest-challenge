@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "name": "Chioma Bassey",
+      "email": "chioma.bassey@example.com",
+      "phone": "233-1098",
+      "address": "1234 King Street"
+    },
+    {
+      "name": "Agudosi Arnold",
+      "email": "agudosi.arnold@example.com",
+      "phone": "142-6618",
+      "address": "5678 Gar Avenue"
+    },
+    {
+      "name": "Rashida Elizabeth",
+      "email": "rashida.elizabeth@example.com",
+      "phone": "233-7768",
+      "address": "9012 marble Street"
+    }
+  ]
+}
